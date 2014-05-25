@@ -4,5 +4,12 @@
     <string name="app_name">GSurvey</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-
+	
+    
+     <string name="Home">Home</string>
+    <string name="Info">Info</string>
+    <string name="login">login</string>
+    <string name="Register">Register</string>
+    <string name="userid">User id....</string>
+    <string name="password">password....</string>
 </resources>
